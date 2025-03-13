@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\task-2C#\task-2C#\bin\Debug\net8.0\task-2C#.exe
+C:\Users\Dell\source\repos\task-2C#\task-2C#\bin\Debug\net8.0\task-2C#.deps.json
+C:\Users\Dell\source\repos\task-2C#\task-2C#\bin\Debug\net8.0\task-2C#.runtimeconfig.json
+C:\Users\Dell\source\repos\task-2C#\task-2C#\bin\Debug\net8.0\task-2C#.dll
+C:\Users\Dell\source\repos\task-2C#\task-2C#\bin\Debug\net8.0\task-2C#.pdb
+C:\Users\Dell\source\repos\task-2C#\task-2C#\obj\Debug\net8.0\task-2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\task-2C#\task-2C#\obj\Debug\net8.0\task-2C#.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\task-2C#\task-2C#\obj\Debug\net8.0\task-2C#.AssemblyInfo.cs
+C:\Users\Dell\source\repos\task-2C#\task-2C#\obj\Debug\net8.0\task-2C#.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\task-2C#\task-2C#\obj\Debug\net8.0\task-2C#.dll
+C:\Users\Dell\source\repos\task-2C#\task-2C#\obj\Debug\net8.0\refint\task-2C#.dll
+C:\Users\Dell\source\repos\task-2C#\task-2C#\obj\Debug\net8.0\task-2C#.pdb
+C:\Users\Dell\source\repos\task-2C#\task-2C#\obj\Debug\net8.0\task-2C#.genruntimeconfig.cache
+C:\Users\Dell\source\repos\task-2C#\task-2C#\obj\Debug\net8.0\ref\task-2C#.dll
